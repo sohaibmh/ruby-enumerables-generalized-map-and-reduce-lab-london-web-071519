@@ -2,7 +2,7 @@ def map(array)
   array.map {|x| x * -1}
 end# Your Code Here
 
-
+array = [1, 2]
   array.map { |x| x }
 
 
