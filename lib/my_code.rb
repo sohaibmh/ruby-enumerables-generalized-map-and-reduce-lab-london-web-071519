@@ -3,10 +3,11 @@ def map(array)
 
 end# Your Code Here
 
+a = [1, 2]
 def mapppp(array)
   array.map { |x| x }
 end
-
+mapppp(a)
 def mappp(array)
   array.map {|x| x * 2}
 end
