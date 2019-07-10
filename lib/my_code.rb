@@ -1,8 +1,9 @@
 def map(array)
   array.map {|x| x * -1}
+  array.map { |x| x }
 end# Your Code Here
 
-def map(array)
+def mapppp(array)
   array.map { |x| x }
 end
 
