@@ -2,9 +2,9 @@ def map(array)
   array.map {|x| x * -1}
 end# Your Code Here
 
-def mapp(array)
+
   array.map { |x| x }
-end
+
 
 def mappp(array)
   array.map {|x| x * 2}
