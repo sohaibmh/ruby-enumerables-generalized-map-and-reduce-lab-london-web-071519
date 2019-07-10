@@ -1,6 +1,6 @@
-def map(array)
+array = [1, 2, 3]
   array.map {|x| x * -1}
-end# Your Code Here
+# Your Code Here
 
 def mapp(array)
   array.map { |x| x }
