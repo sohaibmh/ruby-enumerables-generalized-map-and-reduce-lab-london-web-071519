@@ -1,4 +1,4 @@
-def map_to_negativize(array)
+def map(array)
   array.map {|x| x * -1; x}
 
 end# Your Code Here
